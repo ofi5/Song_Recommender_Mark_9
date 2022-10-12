@@ -13,20 +13,20 @@ import lucky from "/public/lucky.jpg";
 const musicDatabase = {
   rap: [
     {
-      name: "lose yourself",
-      description: "Artist:Eminem, released 2002",
+      name: "Lose Yourself",
+      description: "The song was sung by Eminem and released in 2002",
       rating: "3.69 / 5.0 from 2,157 ratings",
       thumbnail: eminem1
     },
     {
-      name: "homecoming",
-      description: "Artist:Ye , released 2008",
+      name: "Homecoming",
+      description: "The song was sung by kanye and released in 2008",
       rating: "3.88 / 5.0 from 28 ratings",
       thumbnail: Ye
     },
     {
-      name: "In da club",
-      description: "artist: 50 Cents, released 2003",
+      name: "In da Club",
+      description: "The song was sung by 50 Cents and released in 2003",
       rating: "3.14 / 5.0 from 1,226 ratings",
       thumbnail: cent
     }
@@ -34,19 +34,19 @@ const musicDatabase = {
   rock: [
     {
       name: "Free bird",
-      description: "Artist:Lynyrd Skynyrd, released 1977",
+      description: "The song was sung by Lynyrd Skynyrd and released in 1977",
       rating: "3.12 / 5.0 from 1,556 ratings",
       thumbnail: freebird
     },
     {
       name: "Charlie",
-      description: "Artist:RHCP , released 2007",
+      description: "The song was sung by RHCP and released in 2007",
       rating: "3.01 / 5.0 from 5 ratings",
       thumbnail: charlie
     },
     {
       name: "Paradise City",
-      description: "artist: Guns N Roses, released 2002",
+      description: "The song was sung by Guns N Roses and released in 2002",
       rating: "RYM Rating	3.75 / 5.0 from 85 ratings",
       thumbnail: paradise
     }
@@ -55,19 +55,19 @@ const musicDatabase = {
   pop: [
     {
       name: "Electrify me",
-      description: "Artist:Zhu, released 2016",
+      description: "The song was sung by Zhu and released in 2016",
       rating: "3.09 / 5.0 from 287 ratings",
       thumbnail: zhu
     },
     {
-      name: "linked",
-      description: "Artist:Bonobo, released 2019",
+      name: "Linked",
+      description: "The song was sung by Bonobo and released in 2019",
       rating: "3.44 / 5.0 from 82 ratings",
       thumbnail: bonobo
     },
     {
       name: "Get Lucky",
-      description: "artist: Daft Punk, released 2013",
+      description: "The song was sung by Daft Punk and released in 2013",
       rating: "3.49 / 5.0 from 2,507 ratings",
       thumbnail: lucky
     }
